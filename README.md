@@ -1,4 +1,4 @@
-The project can be applied to debugging (diagnosis) of SAT (SAT4J), Constraints (Choco, JSolver) and OWL (any OWLAPI compatible reasoner) knowledge bases as well as ASP programs. At the moment the project team focuses on development on the OWL debugging module (see Publications for details). Therefore, CP and SAT modules might be slightly outdated.
+The project can be applied to debugging (diagnosis) of SAT (SAT4J), Constraints (Choco, JSolver) and OWL (any OWLAPI compatible reasoner) knowledge bases as well as ASP programs. At the moment the project team focuses on development on the OWL debugging module (see [Publications](Publications.md) for details). Therefore, CP and SAT modules might be slightly outdated.
 
 Given user requirements such as consistency, coherency of ontology and test cases and a background knowledge, which are formulas assumed to be correct, the library computes:
 
