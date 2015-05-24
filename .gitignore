@@ -1,0 +1,10 @@
+# Idea project
+
+.idea
+*.iml
+
+# compiler output
+target
+
+# program output
+logs
